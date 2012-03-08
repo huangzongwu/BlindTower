@@ -15,6 +15,7 @@
 		3F7829C81508F19900C2486C /* BTAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F7829C71508F19900C2486C /* BTAppDelegate.m */; };
 		3F7829CB1508F19900C2486C /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F7829C91508F19900C2486C /* MainStoryboard.storyboard */; };
 		3F7829CE1508F19900C2486C /* BTViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F7829CD1508F19900C2486C /* BTViewController.m */; };
+		3F7829D61508F41C00C2486C /* ReadMe.markdown in Resources */ = {isa = PBXBuildFile; fileRef = 3F7829D51508F41C00C2486C /* ReadMe.markdown */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		3F7829CA1508F19900C2486C /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		3F7829CC1508F19900C2486C /* BTViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BTViewController.h; sourceTree = "<group>"; };
 		3F7829CD1508F19900C2486C /* BTViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BTViewController.m; sourceTree = "<group>"; };
+		3F7829D51508F41C00C2486C /* ReadMe.markdown */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ReadMe.markdown; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -50,6 +52,7 @@
 		3F7829A81508F19800C2486C = {
 			isa = PBXGroup;
 			children = (
+				3F7829D51508F41C00C2486C /* ReadMe.markdown */,
 				3F7829BD1508F19900C2486C /* App Core */,
 				3F7829D41508F1E000C2486C /* GameView */,
 				3F7829BE1508F19900C2486C /* Supporting Files */,
@@ -163,6 +166,7 @@
 			files = (
 				3F7829C21508F19900C2486C /* InfoPlist.strings in Resources */,
 				3F7829CB1508F19900C2486C /* MainStoryboard.storyboard in Resources */,
+				3F7829D61508F41C00C2486C /* ReadMe.markdown in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
